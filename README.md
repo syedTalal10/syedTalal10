@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/syed-talal-musharraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-talal-musharraf" height="30" width="40" /></a>
 <a href="https://medium.com/@syedtalal10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@syedtalal10" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@syedtalalmusharraf10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@syedtalalmusharraf10" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@syedtalalmusharraf10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@syedtalalmusharraf10" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/syed_talal10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syed_talal10" height="30" width="40" /></a>
 </p>
 
